@@ -1,0 +1,2 @@
+C:\Users\Nicholas\Desktop\c++\McCombsNicholasInheritance\Debug\McCombsNicholasInheritance.exe
+C:\Users\Nicholas\Desktop\c++\McCombsNicholasInheritance\Debug\McCombsNicholasInheritance.pdb
